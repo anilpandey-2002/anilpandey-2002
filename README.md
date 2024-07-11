@@ -1,4 +1,5 @@
-![MasterHead] (src="https://www.dcubetech.in/images/web-development.gif")
+![MasterHead](https://www.dcubetech.in/images/web-development.gif)
+
 <h1 align="center">Hi 🙏 , I'm Anil Pandey</h1>
 <h3 align="center">Full Stack Developer (MERN)</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">

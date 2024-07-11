@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 🙏 , I'm Anil Pandey</h1>
 <h3 align="center">Full Stack Developer (MERN)</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/HDw3pDmkycEAAAAi/covid-sad.gif">
 
 - 🌱 I’m currently learning **Advance Level MERN Stack Development**
 - 🔥 Data Structure and Algorithms

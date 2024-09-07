@@ -4,9 +4,9 @@
 <h3 align="center">Full Stack Developer (MERN)</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/HDw3pDmkycEAAAAi/covid-sad.gif">
 
-- 🌱 I’m currently learning **Advance Level MERN Stack Development**
+- 🔥 I’m currently learning **Advance Level MERN Stack Development**
 - 🔥 Data Structure and Algorithms
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/anilpandey2002/](https://www.linkedin.com/in/anilpandey2002/)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
